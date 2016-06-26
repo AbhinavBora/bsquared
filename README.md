@@ -1,3 +1,3 @@
 # bsquared
-Android App Development
+Android App Development:
 Simple and fun gaming application.
